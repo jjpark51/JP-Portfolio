@@ -47,7 +47,7 @@ function Navbar() {
                 <Link to='projects'  smooth={true} duration={500} offset={-90}>Projects</Link>
             </div>
             <div>
-                <a href="https://www.notion.so/e1690d1a99e1499ba9b9dde1b08e06b8?pvs=4" style={{color: '#f96815'}}>Resume</a>            
+                <a href="https://lapis-physician-0b3.notion.site/ba1f7994ae2a4d768c9241344b5505f3" style={{color: '#f96815'}}>Resume</a>            
             </div>
              </ul>
         </div>
