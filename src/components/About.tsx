@@ -22,7 +22,6 @@ function About() {
             <div className='School'> <div className='box1'><SchoolIcon /></div> <div className='box2'><span>학교</span></div><div className='box3'>성균관대학교 (휴학) <br/> 소프트웨어학과</div></div>
             <div className='Email'> <div className='box1'><EmailIcon /></div><div className='box2'>이메일</div><div className='box3'>jjpark57@hotmail.com</div> </div>
             <div className='Github'><div className='box1'><GitHubIcon /></div><div className='box2'>Github</div> <div className='box3'><a href="https://github.com/jjpark51" style={{color: 'whitesmoke'}}>jjpark51</a></div> </div>
-            <div className='Military'><div className='box1'><MilitaryTechIcon /></div><div className='box2'>군대</div><div className='box3'>산업기능요원 보충역</div> </div>
        </div>   
 
        </Fade> 
