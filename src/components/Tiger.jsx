@@ -8,7 +8,7 @@ function Tiger() {
     <div className='tiger'>
           <Fade duration={5500}>
 
-        <h1>Hi, I'm <span style={{color: '#f96815'}}>Jinsuk</span>. <br /> <span>I'm a <span style={{color:'#f96815'}}>Front-end</span> Developer<span style={{color: '#f96815'}}>.</span></span></h1>
+        <h1>Hi, I'm <span style={{color: '#f96815'}}>Jinsuk</span>. <br /> </h1>
         </Fade>
 
     </div>
