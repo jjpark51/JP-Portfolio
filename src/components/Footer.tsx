@@ -10,7 +10,6 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'>
-            <a href="https://www.instagram.com/im__jspark/"><InstagramIcon /></a>
             <a href="https://github.com/jjpark51"><GithubIcon /></a>
         </div>
         <p>&copy; 2023 Jinsuk Park. All Rights Reserved </p>
